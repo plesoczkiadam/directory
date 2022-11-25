@@ -1,0 +1,8 @@
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\bin\Debug\szotar.exe.config
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\bin\Debug\szotar.exe
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\bin\Debug\szotar.pdb
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\obj\Debug\szotar.csproj.AssemblyReference.cache
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\obj\Debug\szotar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\obj\Debug\szotar.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\obj\Debug\szotar.exe
+C:\Users\Ádám\Desktop\óra c #\szotar\szotar\obj\Debug\szotar.pdb
